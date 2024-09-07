@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Hanzel Lacida - Developer Portfolio</title>
+        <link>http://www.hanslacida.com</link>
+        <description>Portfolio of Hanzel Lacida, showcasing web development, game development, and innovative solutions.</description>
+        <language>en-us</language>
+        <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
+        <lastBuildDate>Sun, 21 Jul 2024 00:00:00 GMT</lastBuildDate>
+
+        <item>
+            <title>Welcome to My Developer Portfolio</title>
+            <link>http://www.hanslacida.com#home</link>
+            <description>Hi, I'm Hanzel Lacida, a passionate developer specializing in web development, game development, and innovative solutions. Explore my projects and connect with me to learn more about my work. Keywords: web development, game development, innovative solutions, portfolio, developer.</description>
+            <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+
+        <item>
+            <title>GitHub Profile</title>
+            <link>https://developer.hanslacida.com#GithubProfile</link>
+            <description>Discover my open-source projects, code contributions, and collaborative works on my GitHub profile. Keywords: open-source projects, code contributions, collaborative works, GitHub, developer portfolio.</description>
+            <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+
+        <item>
+            <title>Snake Project</title>
+            <link>https://developer.hanslacida.com#SnakeProject</link>
+            <description>Play my interactive Snake game project and see my skills in game development and web design. Keywords: game development, web design, interactive games, Snake game, developer skills.</description>
+            <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+
+        <item>
+            <title>Puzzle Game Project</title>
+            <link>https://developer.hanslacida.com#PuzzleGameProject</link>
+            <description>Dive into my Puzzle Game project, showcasing my ability to create engaging and challenging games. Keywords: puzzle game, engaging games, challenging games, game development, developer skills.</description>
+            <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+
+        <item>
+            <title>ZELDIGITAL Business Website</title>
+            <link>https://zel.digital</link>
+            <description>Visit my business website, ZELDIGITAL, to see how I help businesses maximize their profits through strategic Google Ads management. Keywords: Google Ads management, business website, maximize profits, strategic marketing, digital marketing.</description>
+            <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+
+        <item>
+            <title>EV Cars in Cebu HTML</title>
+            <link>https://evcarscebu.zel.digital/</link>
+            <description>Check out my HTML project on Electric Vehicles in Cebu, demonstrating my proficiency in web development and information presentation. Keywords: Electric Vehicles, HTML project, web development, information presentation, developer proficiency.</description>
+            <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+
+        <item>
+            <title>About Me</title>
+            <link>http://www.hanslacida.com#about</link>
+            <description>I'm a versatile developer with a strong background in creating dynamic and user-friendly applications. My passion lies in solving complex problems through innovative coding solutions. Keywords: versatile developer, dynamic applications, user-friendly applications, innovative coding solutions, problem-solving.</description>
+            <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+
+        <item>
+            <title>Contact Me</title>
+            <link>http://www.hanslacida.com#contact</link>
+            <description>Feel free to reach out to me for collaborations, project inquiries, or just to say hi! Email: hanzel@zeldigital.com LinkedIn: Connect with me Phone (PH): +639761053409 Phone (US): +19173001013. Keywords: contact, collaborations, project inquiries, developer contact, networking.</description>
+            <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
